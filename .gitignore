@@ -1,0 +1,40 @@
+# Ignore build output
+build/
+dist/
+out/
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Visual Studio Code
+.vscode/
+.vs/
+**/.vs/
+
+# Competitive Programming Helper (CPH)
+.cph/
+**/.cph/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore user-specific files
+*.user
+*.suo
+*.sdf
+
+# Ignore compiled and cache files
+*.class
+*.pyc
+__pycache__/
+node_modules/
